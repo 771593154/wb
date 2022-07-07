@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <properties>
-    <cxf.version>2.2.3</cxf.version>
+    <cxf.version>2.6.11</cxf.version>
     <spring.version>3.0.2.RELEASE</spring.version>
   </properties>
 
